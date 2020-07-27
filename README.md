@@ -18,4 +18,4 @@ How do self-driving cars work?
 - Autonomous cars create and maintain a map of their surroundings based on a variety of sensors situated in different parts of the vehicle. Radar sensors monitor the position of nearby vehicles. Video cameras detect traffic lights, read road signs, track other vehicles, and look for pedestrians.
 - For this project, we will focus on the video camera aspect
 
-Created @Inspirit AI 2020
+**Created @Inspirit AI 2020**
