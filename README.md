@@ -2,7 +2,7 @@
 
 The aim of this project is to build and AI tool that can help Self Driving Cars "see" and pick up on objects that are on the road and classify them into different cateogries of what could be on the road.
 
-Click this link for a demo of what this project aims to build! 
+Click this link for a demo of what this project aims to build. 
 https://www.youtube.com/watch?v=9ydhDQaLAqM
 
 Understanding Our Task:
